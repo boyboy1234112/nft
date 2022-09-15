@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xF80b104740e71396C8Bf7B6431e28Fa80e86246a",
+  "SCAN_LINK": "https://polygonscan.com/address/0xf80b104740e71396c8bf7b6431e28fa80e86246a",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Hero Ape Baby",
+  "SYMBOL": "HAB",
+  "MAX_SUPPLY": 30,
+  "WEI_COST": 5000000000000000,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/heroapebaby",
+  "SHOW_BACKGROUND": true
+}
